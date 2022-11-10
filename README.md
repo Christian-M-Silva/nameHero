@@ -33,7 +33,7 @@
 
   **Go to the env file and make the necessary settings. By default this project is in mongo, if you change the database, go to *APP >> CONFIG >> DATABASE* and change the connection to the desired database, don't forget to download the right package, see more in the adonis documentation.**
 
-  **Open [http://127.0.0.1:3333/user](http://localhost:3000) to view it in your browser. Possible errors caused by changes can be seen in the console.**
+  **Open [http://127.0.0.1:3333/user](http://localhost:3333) to view it in your browser. Possible errors caused by changes can be seen in the console.**
 
 ## My process
 
